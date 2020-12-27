@@ -1,0 +1,20 @@
+_repo: Souvenirs-du-celebre-marcheur-Gallot_64034
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Gallot, Yves
+    gutenberg_agent_id: '52724'
+    url: http://www.gutenberg.org/2009/agents/52724
+description: ''
+gutenberg_issued: '2020-12-13'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '64034'
+language: fr
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: Souvenirs du célèbre marcheur Gallot
+url: http://www.gutenberg.org/ebooks/64034
